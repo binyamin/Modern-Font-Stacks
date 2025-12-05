@@ -8,7 +8,7 @@
 		"name": "Binyamin Green",
 		"email": "binyamingreen@protonmail.com"
 	},
-	"repository": "git@github.com:binyamin/modern-font-stacks.git",
+	"repository": "git@github.com:binyamin/Modern-Font-Stacks.git",
 	"scripts": {
 		"lint": "biome check",
 		"format": "biome format --write"
