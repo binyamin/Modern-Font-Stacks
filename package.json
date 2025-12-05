@@ -1,0 +1,19 @@
+{
+	"name": "@binyamin/modern-font-stacks",
+	"private": true,
+	"type": "module",
+	"version": "0.1.0",
+	"license": "MIT",
+	"author": {
+		"name": "Binyamin Green",
+		"email": "binyamingreen@protonmail.com"
+	},
+	"repository": "git@github.com:binyamin/modern-font-stacks.git",
+	"scripts": {
+		"lint": "biome check",
+		"format": "biome format --write"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "~2.3.8"
+	}
+}
